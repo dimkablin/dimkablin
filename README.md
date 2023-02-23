@@ -1,6 +1,5 @@
-# LOL
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<style>
     body {
         background: -moz-linear-gradient(45deg, #02e1ba 0%, #26c9f2 29%, #d911f2 66%, #ffa079 100%);
         background: -webkit-linear-gradient(45deg, #02e1ba 0%,#26c9f2 29%,#d911f2 66%,#ffa079 100%);
@@ -102,5 +101,5 @@
         .st13{opacity:0.2;}
         .st14{clip-path:url(#SVGID_16_);}
         .st15{opacity:0.3;fill:#FFFFFF;enable-background:new    ;}
-</svg>
+</style>
 
