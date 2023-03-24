@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-    <img height="350" src="src/nyancat.svg" width="800" />
+    <img height="350" src="src/nyancat_russia.svg" width="800" />
   <br/>
 </div>
 
