@@ -13,6 +13,5 @@ class AboutMe:
         self.languages = ["Python", "C/C++", "Java"]
 
     def say_hello(self):
-        print("Hi, my name is " + self.name + "!")
-        print("Wanna join my journey?")
+        print(self.name + " is ready to work!")
 ```
