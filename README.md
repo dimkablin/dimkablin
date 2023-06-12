@@ -15,3 +15,4 @@ class AboutMe:
     def say_hello(self):
         print(self.name + " is ready to work!")
 ```
+[check me out on Kaggle](https://www.kaggle.com/dmitryellison)
