@@ -11,8 +11,8 @@ class AboutMe:
         self.education = "ITMO University"
         self.faculty = "Robotics and Artificial Intelligence"
         self.languages = ["Python", "C/C++", "Java"]
+        self.kaggle = ["dmitryellison"](https://www.kaggle.com/dmitryellison)
 
     def say_hello(self):
         print(self.name + " is ready to work!")
 ```
-[check me out on Kaggle](https://www.kaggle.com/dmitryellison)
