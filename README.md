@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-    <img height="350" src="src/nyancat.svg" width="800" />
+    <img height="350" src="src/img/nyancat.svg" width="800" />
   <br/>
 </div>
 
@@ -14,5 +14,5 @@ class AboutMe:
 
     def say_hello(self):
         print(self.name + " is ready to work!")
-        print("Take a look at my resume in the source.")
+        print("Take a look at my CV in the source.")
 ```
