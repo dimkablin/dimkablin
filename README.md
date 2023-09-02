@@ -14,5 +14,4 @@ class AboutMe:
 
     def say_hello(self):
         print(self.name + " is ready to work!")
-        print("Take a look at my CV in the source.")
 ```
