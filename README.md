@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dimkablin)
+
 <div align="center">
   <br/>
     <img height="350" src="src/img/nyancat.svg" width="800" />
@@ -16,7 +18,7 @@ class AboutMe:
     def say_hello(self):
         print(self.name + " is ready to work!")
 ```
-![](https://komarev.com/ghpvc/?username=dimkablin)
+
 ---
 
 #### ML
