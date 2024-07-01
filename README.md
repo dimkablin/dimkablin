@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=dimkablin)
-
 <div align="center">
   <br/>
     <img height="350" src="src/img/nyancat.svg" width="800" />
