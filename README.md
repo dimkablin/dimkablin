@@ -34,3 +34,5 @@ class AboutMe:
 ) ![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux
 ) ![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97_Gradio-black?style=for-the-badge
 ) 
+
+![](https://komarev.com/ghpvc/?username=dimkablin)
