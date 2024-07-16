@@ -36,9 +36,8 @@ class AboutMe:
 ) 
 
 ----
-Check this out
-#### [CV](CV.pdf) 
-#### [personal site](https://dimkablin.github.io/).
+
+###### [CV](CV.pdf) 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=dimkablin" alt="Profile views">
 </p>
