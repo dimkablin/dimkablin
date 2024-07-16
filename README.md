@@ -10,7 +10,6 @@ class AboutMe:
         self.name = "Dimka"
         self.education = "ITMO University"
         self.faculty = "Robotics and Artificial Intelligence"
-        self.languages = ["Python", "C/C++", "Java"]
         self.position = "Machine Learning Engineer"
 
     def say_hello(self):
