@@ -35,6 +35,8 @@ class AboutMe:
 ) ![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97_Gradio-black?style=for-the-badge
 ) 
 
+----
+Check my [CV](CV.pdf) and my [personal site](https://dimkablin.github.io/).
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=dimkablin" alt="Profile views">
 </p>
