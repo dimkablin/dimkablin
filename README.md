@@ -35,4 +35,6 @@ class AboutMe:
 ) ![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97_Gradio-black?style=for-the-badge
 ) 
 
-![](https://komarev.com/ghpvc/?username=dimkablin)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=dimkablin" alt="Profile views">
+</p>
