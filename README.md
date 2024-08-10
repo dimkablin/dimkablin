@@ -37,7 +37,7 @@ class AboutMe:
 ----
 
 <a href="CV.pdf">
-  <img src="https://img.shields.io/badge/Check%20my%20CV-5D5D5D?style=for-the-badge" alt="Check my CV">
+  <img src="https://img.shields.io/badge/Check%20my%20CV-black?style=for-the-badge" alt="Check my CV">
 </a>
 
 
