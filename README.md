@@ -48,3 +48,5 @@ class AboutMe:
   </tr>
 </table>
 
+| <a href="CV.pdf"><img src="https://img.shields.io/badge/Check%20my%20CV-black?style=for-the-badge&logo=aboutdotme" alt="Check my CV"></a> | ![Profile views](https://komarev.com/ghpvc/?username=dimkablin) |
+|:---:|:---:|
