@@ -35,15 +35,16 @@ class AboutMe:
 ) 
 
 ----
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <a href="CV.pdf">
-      <img src="https://img.shields.io/badge/Check%20my%20CV-black?style=for-the-badge&logo=aboutdotme" alt="Check my CV">
-    </a>
-  </div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=dimkablin" alt="Profile views">
-  </div>
-</div>
-
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="CV.pdf">
+        <img src="https://img.shields.io/badge/Check%20my%20CV-black?style=for-the-badge&logo=aboutdotme" alt="Check my CV">
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=dimkablin" alt="Profile views">
+    </td>
+  </tr>
+</table>
 
