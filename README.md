@@ -1,6 +1,7 @@
 <div align="center">
   <br/>
-    <img height="350" src="src/img/nyancat_russia.svg" width="800" />
+    <!-- <img height="350" src="src/img/nyancat_russia.svg" width="800" /> -->
+    <img height="350" src="src/img/nyancat.svg" width="800" />
   <br/>
 </div>
 
